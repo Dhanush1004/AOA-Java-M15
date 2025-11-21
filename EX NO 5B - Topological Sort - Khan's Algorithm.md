@@ -43,14 +43,13 @@ Decrease the indegree of its dependent tasks; if any reaches 0, add it to the qu
 
 If all tasks are processed, print the task order; otherwise, print “Release cannot be scheduled.”
 
+```
+Developed by: A.Dhanush
+Register Number: 212222220010 
+```
 
 ## Program:
 ```
-/*
-Program to implement Reverse a String
-Developed by: N.Navya Sree
-Register Number:  212223040138
-*/
 import java.util.*;
 
 public class prog{
