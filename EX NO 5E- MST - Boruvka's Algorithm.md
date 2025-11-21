@@ -20,13 +20,13 @@ Find the MST using Boruvka's Algorithm for a weighted undirected graph.
 5.Repeat until all vertices belong to a single component, then print the total MST weight.
    
 
+```
+Developed by: A.Dhanush
+Register Number: 212222220010 
+```
+
 ## Program:
 ```
-/*
-Program to implement Reverse a String
-Developed by: N.Navya Sree
-Register Number:  212223040138
-*/
 import java.util.*;
 
 public class BoruvkaMST {
