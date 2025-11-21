@@ -36,13 +36,13 @@ A valid flower assignment always exists
 
 5.After assigning flowers to all gardens, print the final flower arrangement.   
 
+```
+Developed by: A.Dhanush
+Register Number: 212222220010 
+```
+
 ## Program:
 ```
-/*
-Program to implement Reverse a String
-Developed by: N.Navya Sree
-Register Number:  212223040138
-*/
 import java.util.*;
 
 public class GardenFlowerPlanner {
