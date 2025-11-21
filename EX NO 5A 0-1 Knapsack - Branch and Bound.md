@@ -52,14 +52,12 @@ Prune any branch where the upper bound ≤ current best profit.
 
 5.Return the highest profit (best) obtained from feasible startup selections within the budget.
    
-
+```
+Developed by: A.Dhanush
+Register Number: 212222220010 
+```
 ## Program:
 ```
-/*
-Program to implement Reverse a String
-Developed by: N.Navya Sree
-Register Number: 212223040138 
-*/
 import java.util.*;
 
 public class StartupShowcaseOptimizer {
